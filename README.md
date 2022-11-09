@@ -2,4 +2,6 @@
 
 Tema: Robô Buscador e Tweets
 
-Busca e categorização de tweets duma conta específica do Twitter, a qual mantém um mural de publicações de vagas de emprego na área de tecnologia.
+Desenvolvedores: 
+
+Descrição: Busca e categorização de tweets de um perfil específico do Twitter, o qual mantém um mural de publicações de vagas de emprego na área de tecnologia. A solução deverá buscar tweets, categorizá-los, e exibi-los ordenados de diferentes maneiras.

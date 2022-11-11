@@ -7,7 +7,7 @@
 
 ## 📄 Sobre o projeto
 
-O projeto tem como objetivo a busca de Tweets da página [___]() (que mantém um mural de publicações de vagas de empregos relacionados à área de tecnologia), fazer a limpeza desses dados e salvá-los em alguma base de dados para que o usuário do sistema/aplicativo possa filtrar vagas de seu interesse baseadas em filtros como data, tipo da vaga e senioridade e receber alertas/notificações de novas vagas postadas. 
+O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://twitter.com/Tecnovagas1) (que mantém um mural de publicações de vagas de empregos relacionados à área de tecnologia), fazer a limpeza desses dados e salvá-los em alguma base de dados para que o usuário do sistema/aplicativo possa filtrar vagas de seu interesse baseadas em filtros como data, tipo da vaga e senioridade e receber alertas/notificações de novas vagas postadas. 
 
 ## 👨‍💻 Autores
 

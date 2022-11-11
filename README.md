@@ -14,3 +14,4 @@ O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://tw
 * [Arthur de Camargo Alves](https://github.com/arthur65535)
 * [Fernando Severino Almeida](https://github.com/fernandosev)
 * [Pedro Henrique Chaves Junqueira](https://github.com/Denky-san)
+* [Karlos Daniel Pires da Silva](https://github.com/karlosdaniel451)

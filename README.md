@@ -4,7 +4,7 @@
 
  * [Sobre o projeto](#-sobre-o-projeto)
  * [Autores](#-autores)
- * [Diagrama de Contexto](#-diagrama-de-contexto)
+ * [Diagrama de Contexto](#diagrama-de-contexto)
 
 ## 📄 Sobre o projeto
 

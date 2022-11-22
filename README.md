@@ -17,6 +17,7 @@ O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://tw
 * [Karlos Daniel Pires da Silva](https://github.com/karlosdaniel451)
 * [Matheus de Moura Rosa](https://github.com/ItsMatt1)
 * [Pedro Henrique Chaves Junqueira](https://github.com/Denky-san)
+* [Phelipe Gabriel de Souza Cecilio](https://github.com/PhelipeCecilio)
 
 ## Diagrama de Contexto
 

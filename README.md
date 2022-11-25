@@ -22,3 +22,7 @@ O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://tw
 ## Diagrama de Contexto
 
 ![Diagrama de Contexto](https://user-images.githubusercontent.com/29666978/202816195-2650b8c7-588e-4b17-9621-7adad2ef12a7.jpg)
+
+## Diagrama de Container
+
+![Diagrama de Container](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/Diagrama%20de%20Container.jpg)

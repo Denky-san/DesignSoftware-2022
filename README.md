@@ -19,6 +19,25 @@ O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://tw
 * [Pedro Henrique Chaves Junqueira](https://github.com/Denky-san)
 * [Phelipe Gabriel de Souza Cecilio](https://github.com/PhelipeCecilio)
 
+## Histórias de usuário
+
+* Como usuário quero visualizar todas as vagas cadastradas
+* Como usuário quero cadastrar meu email para receber Newsletter
+* Como usuário quero visualizar vagas ordenadas por data de postagem
+* Como usuário quero visualizar vagas por nível de experiência
+* Como usuário quero visualizar vagas por local de atuação
+* Como usuário quero visualizar vagas por valor mínimo e máximo de salário
+* Como usuário quero visualizar vagas por área de atuação
+* Como usuário quero visualizar vagas por nível de experiência
+* Como usuário quero visualizar vagas por empresa
+* Como usuário quero receber notificações das vagas postadas no dispositivo mobile
+* Como usuário quero receber notificações das vagas postadas no navegador Web
+* Como usuário quero aplicar filtros para receber notificações de vagas do meu interesse
+* Como usuário quero me descadastrar dos eventos de notificação
+* Como usuário quero me descadastrar da Newsletter
+* Como usuário quero visualizar os filtros disponíveis
+* Como usuário quero receber um email de confirmação para aprovar o cadastro na Newsletter
+
 ## Diagrama de Contexto
 
 ![Diagrama de Contexto](https://user-images.githubusercontent.com/29666978/202816195-2650b8c7-588e-4b17-9621-7adad2ef12a7.jpg)

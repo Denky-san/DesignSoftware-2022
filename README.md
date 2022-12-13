@@ -1,4 +1,4 @@
-<h1 align="center">Robô Buscador e Tweets</h1>
+<h1 align="center">Robô Buscador de Tweets</h1>
 
 ## Tabela de conteúdo
 

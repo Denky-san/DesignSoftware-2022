@@ -49,5 +49,5 @@ O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://tw
 ![Diagrama de Container](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/Diagrama%20de%20Container.jpg)
 
 ## Diagrama Entidade Relacionamento
-![Diagrama Entidade Relacionamento](https://user-images.githubusercontent.com/61748744/207328450-78800817-62ab-417a-b619-8ac41786f74a.png)
+![Diagrama Entidade Relacionamento](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/DER.png)
 

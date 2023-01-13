@@ -52,5 +52,5 @@ O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://tw
 ![Diagrama Entidade Relacionamento](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/DER.png)
 
 ## Diagrama de componentes - Mobile
-![Diagrama de componentes - Mobile](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/Diagrama%20de%20Componentes%20-%20Mobile.jpg)
+![Diagrama de componentes - Mobile](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/Diagrama%20de%20Componentes_Mobile.jpg)
 

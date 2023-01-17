@@ -56,5 +56,5 @@ O projeto tem como objetivo a busca de Tweets da página [Tecnovagas](https://tw
 
 ## Diagrama de componentes - WEB
 
-![Diagrama de componentes - WEB](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/Diagrama%20de%20Componentes_Web.jpg)
+![Diagrama de componentes - WEB](https://raw.githubusercontent.com/Denky-san/DesignSoftware-2022/master/Diagramas/Diagrama%20de%20Componentes_Web.jpeg)
 

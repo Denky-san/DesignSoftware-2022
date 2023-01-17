@@ -7,6 +7,8 @@
  * [Diagrama de Contexto](#diagrama-de-contexto)
  * [Diagrama de Container](#diagrama-de-container)
  * [Diagrama Entidade Relacionamento](#diagrama-entidade-relacionamento)
+ * [Diagrama de Componentes - Mobile](#diagrama-de-componentes---mobile)
+ * [Diagrama de Componentes - WEB](#diagrama-de-componentes---web)
 
 ## 📄 Sobre o projeto
 

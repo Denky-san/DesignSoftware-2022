@@ -4,7 +4,7 @@ Fornecer aos usuários uma forma de receber alertas de vagas de emprego personal
 
 ## Limite
 
-- Deve-se usar a página do Twitter (TechnoVagas) para o registro de vagas na base de dados
+- Deve-se usar a página do Twitter (@Technovagas1) para o registro de vagas na base de dados
 
 - Deve-se usar Python para a construção do Backend
 
